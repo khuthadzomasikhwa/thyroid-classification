@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Thyroid test page",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/app/server.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/app",
+            "python": "C:\\Python314\\python.exe"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter-runtime/
+*.pyc
+~$*
+
+# Course drafts and the first notebook. Not part of the public project.
+*.docx
+*.pptx
+Documents/
+thyroid_project.ipynb
+Untitled.ipynb
+thyroid_desktop.py
+
+# Earlier copies. The notebook reads thyroid0387.data and writes the two files below.
+data/thyroid-disease.zip
+data/thyroid0387.csv
+data/thyroid0388.csv
+data/thyroid_cleaned.csv
+data/thyroid_raw_cleaned.csv
+data/thyroid_ready_for_model.csv
+data/thyroid_model.joblib
+
+# Other tasks from the same UCI download. This project uses thyroid0387 only.
+data/thyroid-disease/all*
+data/thyroid-disease/ann-*
+data/thyroid-disease/dis.*
+data/thyroid-disease/hypothyroid.*
+data/thyroid-disease/new-thyroid.*
+data/thyroid-disease/sick*
+data/thyroid-disease/HELLO
+data/thyroid-disease/Index
+data/thyroid-disease/thyroid.theory
+data/thyroid-disease/costs/

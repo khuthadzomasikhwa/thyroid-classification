@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
+    "files.exclude": {
+        "web/node_modules": true
+    }
+}
